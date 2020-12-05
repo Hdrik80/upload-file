@@ -1,0 +1,30 @@
+<html><head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    Fore more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+
+
+
+get url---------open/config
+main.dart.js:3965 get code---------200
+main.dart.js:3965 get success---------{"default_invite_code":"","experience_time":"7","US_DE_RATE":"10000","DE_US_RATE":"500","DEFAULT":"","WITHDRAW_FEE":"0","CLOSE_RECHARGE":"0","index_window":"Pengumuman resmi: Baru-baru ini, ditemukan bahwa banyak pengguna mendaftarkan banyak akun dan mengumpulkan komisi untuk tugas dengan jahat. Mulai hari ini, batas pembayaran harian anggota pengalaman adalah 100 pengguna pertama. Hentikan pembayaran setelah lebih dari 100 pengguna. (Catatan: Pengguna VIP tidak dibatasi pembayarannya dan dapat diproses terlebih dahulu). Tugas gratis untuk anggota uji coba secara resmi diubah menjadi tugas waktu terbatas. Ada batasan 1000 tugas per hari, dan waktu untuk menerima tugas adalah dari jam 12 siang hingga jam 10 malam setiap hari. Jika pendaftaran jahat dari beberapa akun untuk mengumpulkan komisi platform ditemukan, sistem akan menangguhkan akun tersebut. Pengguna harus mematuhi aturan platform dan melakukan tugas komisi yang wajar.","forced_window":1,"index_windows_status":"1","url":"http:\/\/www.new003.com","version":"1.5.0","versionnumber":8,"Introduction_video":"https:\/\/yindu-wpp.oss-ap-southeast-5.aliyuncs.com\/video\/100644.mp4","balance_withdraw_status":"1","open_invest":0,"ios_help":"https:\/\/yindu-wpp.oss-ap-southeast-5.aliyuncs.com\/images\/app\/app.jpg"}
+main.dart.js:3965 get url---------index/index
+main.dart.js:3965 get code---------200
+main.dart.js:3965 get success---------{"data":{"banner":[{"id":4,"name":"www.new003.com","url":"www.new003.com","image":"https:\/\/yindu-wpp.oss-ap-southeast-5.aliyuncs.com\/images\/cache\/2020-11-21\/5fb8c2afe1b4d.png","type":3},{"id":2,"name":"http:\/\/www.new003.com","url":"http:\/\/www.new003.com","image":"https:\/\/yindu-wpp.oss-ap-southeast-5.aliyuncs.com\/images\/cache\/2020-11-21\/5fb8c2bc5517a.png","type":3},{"id":1,"name":"123","url":"http:\/\/www.new003.com","image":"https:\/\/yindu-wpp.oss-ap-southeast-5.aliyuncs.com\/images\/system\/2020-11-21\/5fb8c405e8e35.png","type":3}],"notice":["******* 14743 Withdrawal 100000IDR","******* 68745 Withdrawal 500000IDR","******* 45762 Withdrawal 600000IDR","******* 77783 Withdraw 100000IDR","******* 12772 Withdraw 100000IDR","******* 94412 Withdrawal 1000000IDR","******* 33261 Withdrawal 108000IDR","******* 86212 Withdrawal 500000IDR","******* 67941 Withdrawal 100000IDR","******* 77735 Withdrawal 600,000IDR","******* 87964 Withdrawal 900000IDR","******* 88831 Withdrawal 1200000IDR","******* 36943 Withdrawal 150000IDR","******* 44534 Withdrawal 250000IDR","******* 67232 Withdrawal 100000IDR","******* 44221 Withdrawal 250000IDR","******* 67965 withdraw cash 1000000IDR","******* 44346 Withdraw 2000000IDR","******* 67938 Withdrawal 250000IDR","******* 34534 Withdraw 100000IDR","******* 23978 Withdrawal 270000IDR","******* 87964 Withdrawal 900000IDR","******* 88831 Withdrawal 1200000IDR","******* 94412 Withdrawal 1000000IDR","******* 33261 Withdrawal 108000IDR","******* 14743 Withdrawal 100000IDR","******* 68745 Withdrawal 500000IDR","******* 36943 Withdrawal 150000IDR","******* 44534 Withdrawal 250000IDR"],"task_type":[{"id":5,"en_name":"tiktok","name":"\u6296\u97f3","type":1,"desc":"Like Concern","sort":9},{"id":2,"en_name":"facebook","name":"\u8138\u4e66","type":1,"desc":"Like Concern","sort":8},{"id":3,"en_name":"YouTube","name":"YouTube","type":1,"desc":"Like Concern","sort":7},{"id":4,"en_name":"chingari","name":"chingari","type":1,"desc":"Like Concern","sort":6},{"id":1,"en_name":"Wpp","name":"Wpp","type":1,"desc":"Like Concern","sort":5},{"id":6,"en_name":"WhatsApp","name":"WhatsApp","type":1,"desc":"Like Concern","sort":1}],"member_order":[{"tel":"*******31745","money":58500},{"tel":"*******31342","money":156000},{"tel":"*******75434","money":286000},{"tel":"*******24342","money":728000},{"tel":"*******77753","money":1300000},{"tel":"*******78884","money":2080000},{"tel":"*******78384","money":2080000},{"tel":"*******77453","money":1300000},{"tel":"*******23342","money":728000},{"tel":"*******34234","money":286000},{"tel":"*******31454","money":156000},{"tel":"*******75445","money":58500},{"tel":"*******5642","money":728000},{"tel":"*******76434","money":286000},{"tel":"*******24342","money":728000},{"tel":"*******31342","money":156000},{"tel":"*******31634","money":58500},{"tel":"*******78532","money":2080000},{"tel":"*******77743","money":1300000},{"tel":"*******27342","money":728000},{"tel":"*******75777","money":286000},{"tel":"*******31555","money":156000},{"tel":"*******78867","money":2080000},{"tel":"*******77453","money":1300000},{"tel":"*******24552","money":728000},{"tel":"*******728000","money":728000},{"tel":"*******75887","money":286000},{"tel":"*******31567","money":156000},{"tel":"*******31532","money":58500},{"tel":"*******29532","money":42500}],"member_top":[{"tel":"*******78675","money":28550000},{"tel":"*******98789","money":19930000},{"tel":"*******78694","money":16906000},{"tel":"*******87413","money":15330000},{"tel":"*******79031","money":17350000},{"tel":"*******34346","money":14000000},{"tel":"*******78675","money":1350000},{"tel":"*******98559","money":12930000},{"tel":"*******63294","money":12906000},{"tel":"*******57213","money":11360000},{"tel":"*******49031","money":11350000},{"tel":"*******32346","money":11000000}]},"status_code":200,"message":"OK"}
